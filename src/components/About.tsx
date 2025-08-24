@@ -24,7 +24,7 @@ const About = () => {
                <div className="flex justify-center animate-fade-in-up">
     <img
       src="public/ayyanar.jpg"
-      alt="About Me"
+      alt=""
       className="w-48 h-48 rounded-full object-cover shadow-lg"
     />
   </div>
