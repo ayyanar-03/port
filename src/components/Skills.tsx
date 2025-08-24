@@ -26,7 +26,7 @@ const Skills = () => {
     {
       title: "Database & Analytics",
       icon: Database,
-      skills: ["MySQL", "Data Analytics", "Python Data Science", "Database Design"],
+      skills: ["MySQL", "Data Analytics", "Database Design"],
       gradient: "from-purple-500 to-purple-600"
     },
     {
