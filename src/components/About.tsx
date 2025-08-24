@@ -14,6 +14,13 @@ const About = () => {
           </p>
         </div>
 
+  <div className="flex justify-center animate-slide-in-right">
+      <img
+        src="C:\Users\AYYANAR P\Downloads\ayyanar-portfolio\ayyanar-portfolio-showcase-main\assets\ayyanar.jpg"  // 👈 replace with your image path
+        alt="About Me"
+        className="rounded-2xl shadow-lg w-full max-w-sm object-cover"
+      />
+    </div>
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* About Content */}
           <div className="space-y-6 animate-slide-in-left">
