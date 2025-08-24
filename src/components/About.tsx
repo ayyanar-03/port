@@ -9,23 +9,25 @@ const About = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
             About Me
           </h2>
+          
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             A passionate B.Tech IT graduate with strong foundation in software development and emerging technologies
           </p>
         </div>
 
-  <div className="flex justify-center animate-slide-in-right">
-      <img
-        src="C:\Users\AYYANAR P\Downloads\ayyanar-portfolio\ayyanar-portfolio-showcase-main\assets\ayyanar.jpg"  // 👈 replace with your image path
-        alt="About Me"
-        className="rounded-2xl shadow-lg w-full max-w-sm object-cover"
-      />
-    </div>
+  
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* About Content */}
           <div className="space-y-6 animate-slide-in-left">
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-foreground leading-relaxed">
+               <div className="flex justify-center animate-fade-in-up">
+    <img
+      src="public/ayyanar.jpg"
+      alt="About Me"
+      className="w-48 h-48 rounded-full object-cover shadow-lg"
+    />
+  </div>
                 A deep passion for software development, problem solving, and continuous learning. I bring strong technical foundations and hands-on experience in full-stack development, computer vision, and machine learning. I've built and deployed real-time systems, worked on diverse tech stacks ranging from Python and Java to React and Firebase, and actively participate in technical events and hackathons to enhance my problem-solving and collaboration skills.
               </p>
             </div>
