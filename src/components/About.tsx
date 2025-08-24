@@ -60,7 +60,7 @@ const About = () => {
                 <div className="flex-1">
                   <h3 className="text-xl font-semibold mb-2">Higher Secondary Certificate</h3>
                   <p className="text-primary font-medium mb-1">Biology and Mathematics</p>
-                  <p className="text-sm text-muted-foreground mb-2">Government Higher Secondary School, Virudhunagar</p>
+                  <p className="text-sm text-muted-foreground mb-2">Government Higher Secondary School,Palavanatham, Virudhunagar</p>
                   <div className="flex justify-between items-center">
                     <span className="text-sm font-medium text-accent">Score: 85%</span>
                     <span className="text-sm text-muted-foreground">2020-2021</span>
@@ -76,7 +76,7 @@ const About = () => {
                 </div>
                 <div className="flex-1">
                   <h3 className="text-xl font-semibold mb-2">Secondary School Leaving Certificate</h3>
-                  <p className="text-sm text-muted-foreground mb-2">Government Higher Secondary School, Virudhunagar</p>
+                  <p className="text-sm text-muted-foreground mb-2">Government Higher Secondary School, Palavanathm, Virudhunagar</p>
                   <div className="flex justify-between items-center">
                     <span className="text-sm font-medium text-accent">Score: 86.2%</span>
                     <span className="text-sm text-muted-foreground">2018-2019</span>
