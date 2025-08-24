@@ -1,22 +1,17 @@
-# Welcome to your Lovable project
+## About this Portfolio
+
+This is a personal portfolio website showcasing my skills, projects, and experience as a developer. Built with React, TypeScript, Vite, and Tailwind CSS, the site features a modern, responsive design and highlights my work in web development. You can view my projects, learn more about my background, and find contact information for collaboration or opportunities.
+
+Feel free to explore the live site: [https://port-mu-sepia.vercel.app/](https://port-mu-sepia.vercel.app/)
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/3e8b34c0-4f7a-4502-ab83-fa431a24e106
+**URL**: https://port-mu-sepia.vercel.app/
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3e8b34c0-4f7a-4502-ab83-fa431a24e106) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -57,17 +52,5 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3e8b34c0-4f7a-4502-ab83-fa431a24e106) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
