@@ -23,7 +23,7 @@ const About = () => {
               <p className="text-lg text-foreground leading-relaxed">
                <div className="flex justify-center animate-fade-in-up">
     <img
-      src="https://github.io/ayyanar-03/port/src/assets/ayyanar.jpg"
+      src="https://res.cloudinary.com/dowfxwpfp/image/upload/v1756107727/main-sample.png"
       alt=""
       className="w-48 h-48 rounded-full object-cover shadow-lg"
     />
